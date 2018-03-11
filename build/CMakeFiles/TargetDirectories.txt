@@ -1,0 +1,3 @@
+/media/qing/linux/udacity/Self-drving_Car_term2/Lesson_project_Model_predictive_control_project/Udacity_MPC_prject/build/CMakeFiles/edit_cache.dir
+/media/qing/linux/udacity/Self-drving_Car_term2/Lesson_project_Model_predictive_control_project/Udacity_MPC_prject/build/CMakeFiles/rebuild_cache.dir
+/media/qing/linux/udacity/Self-drving_Car_term2/Lesson_project_Model_predictive_control_project/Udacity_MPC_prject/build/CMakeFiles/mpc.dir
