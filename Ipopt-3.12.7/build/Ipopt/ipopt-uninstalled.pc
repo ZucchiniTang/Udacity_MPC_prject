@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/build/Ipopt/src/Interfaces
+
+Name: IPOPT
+Description: Interior Point Optimizer
+URL: https://projects.coin-or.org/Ipopt
+Version: 3.12.7
+Libs: ${libdir}/libipopt.la -llapack -lblas -lm  -ldl
+Cflags: -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/Interfaces -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/Common -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/LinAlg -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/Algorithm -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/contrib/CGPenalty -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/Ipopt/src/contrib/LinearSolverLoader -I/media/qing/linux/udacity/Self-drving Car_term2/Lesson_project_Model_predictive_control_project/buildIpopt/Ipopt-3.12.7/build/Ipopt/src/Common
+Requires: 
