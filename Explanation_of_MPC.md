@@ -20,7 +20,7 @@ a0: Throttle value of vehicle(we use throttle value represent both of throttle a
 #### What is Update Equations?
 The code which in line 119~125 of 'mpc.cpp' is the update equation of time t to t+1.<br /> Using _dt_, _N_, _previous state of vehicle_ and actuation value _a0_ and _delta0_.<br />
 _'fg[ ]'_ is the cost, which need to be minimize close to 0, so base on equation(from udacity lesson) below, we can update t+1 every dt.<br />
-![Update equations](images/Update equations.png)<br /><br />
+![](images/UpdateEquations.png)<br /><br />
 
 
 
